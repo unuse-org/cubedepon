@@ -15,6 +15,22 @@
 - 制作時期：2023年
 - チーム人数：6人
 
+---
+
+## 👥 開発メンバー
+
+- 太田 拓海（画像処理・システム設計）  
+  GitHub: https://github.com/ユーザー名
+
+- Niimi（UI / ゲームロジック）  
+  GitHub: https://github.com/ToB213
+
+- 佐藤 花子（デザイン）  
+  GitHub: https://github.com/ユーザー名
+
+- 佐藤 花子（デザイン）  
+  GitHub: https://github.com/ユーザー名
+
 
 カメラ入力を用いたインタラクティブパズルゲーム。  
 ルービックキューブができなくても大丈夫！
