@@ -25,10 +25,10 @@
 - shiruku-shibata（C++ / OpenCV）  
   GitHub: https://github.com/shiruku-shibata
 
-- Niimi（デザイン)
+- Niimi（デザイン)  
   GitHub: https://github.com/ToB213
 
-- Taketani Shinjirou（デザイン）
+- Taketani Shinjirou（デザイン）  
   GitHub: https://github.com/chiroru-taketani
 
 - SHU144（デザイン）  
