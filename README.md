@@ -1,18 +1,60 @@
-# name
+# ゲームタイトル
 
-image or gif
+<p align="center">
+  <img src="images/title.png" width="600">
+</p>
 
-## Overview
+## 🎮 デモ動画
+<!-- YouTubeなどのリンク -->
+https://xxxxxxxxx
 
-## Requirement
+---
 
-## Usage
+## 📝 概要
+- ジャンル：
+- 制作期間：
+- チーム人数：
+- 目的：
 
-## Features
+例：
+カメラ入力を用いたインタラクティブパズルゲーム。  
+プレイヤーの動作を認識し、直感的な操作を実現することを目的として制作。
 
-## Reference
+---
 
-## Author
+## 👥 担当（自分の役割）※重要
+- 〇〇機能の設計・実装
+- 画像処理アルゴリズムの開発
+- UI設計
+- GitHubのブランチ管理
+
+### 担当範囲詳細
+- ○○の処理を実装
+- △△のアルゴリズムを改善
+- ××のバグ修正
+
+---
+
+## 🛠 使用技術
+- Unity (バージョン)
+- C#
+- OpenCV
+- Python
+- Git / GitHub
+
+---
+
+## 📷 スクリーンショット
+<p align="center">
+  <img src="images/screenshot1.png" width="400">
+  <img src="images/screenshot2.png" width="400">
+</p>
+
+---
+
+## ▶ 実行方法
+```bash
+git clone https://github.com/ユーザー名/リポジトリ名
 
 [twitter](https://twitter.com/Kotabrog)
 
