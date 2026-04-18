@@ -19,17 +19,20 @@
 
 ## 👥 開発メンバー
 
-- 太田 拓海（画像処理・システム設計）  
+- 太田 拓海（Unity設計 / ゲームプラン）  
   GitHub: https://github.com/ユーザー名
 
-- Niimi（UI / ゲームロジック）  
+- shiruku-shibata（C++ / OpenCV）  
+  GitHub: https://github.com/shiruku-shibata
+
+- Niimi（デザイン)
   GitHub: https://github.com/ToB213
 
-- 佐藤 花子（デザイン）  
-  GitHub: https://github.com/ユーザー名
+- Taketani Shinjirou（デザイン）
+  GitHub: https://github.com/chiroru-taketani
 
-- 佐藤 花子（デザイン）  
-  GitHub: https://github.com/ユーザー名
+- SHU144（デザイン）  
+  GitHub: https://github.com/SHU144
 
 
 カメラ入力を用いたインタラクティブパズルゲーム。  
