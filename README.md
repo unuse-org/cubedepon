@@ -1,4 +1,4 @@
-# キューブでポン
+# キューブでポン!
 
 <p align="center">
   <img width="960" height="537" alt="title" src="https://github.com/user-attachments/assets/7cd74157-84ad-4e09-aabc-e3a0b0e847ec" />
