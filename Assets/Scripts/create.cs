@@ -55,6 +55,11 @@ public class create : MonoBehaviour
         Randcubecreate();
     }
 
+    void Update()
+    {
+        
+    }
+
     void Randcubecreate()
     {
         int flag = 0;
