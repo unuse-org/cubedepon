@@ -54,15 +54,3 @@
   <img width="1092" height="617" alt="スクリーンショット 2026-04-19 1 13 57" src="https://github.com/user-attachments/assets/08d5531c-6f90-43c3-9f73-0bf660a27aca" />
 
 </p>
-
----
-
-## ▶ 実行方法(未完成)
-```bash
-git clone https://github.com/ユーザー名/リポジトリ名
-
-[twitter](https://twitter.com/Kotabrog)
-
-## Licence
-
-[MIT](https://......)
